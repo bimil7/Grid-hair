@@ -1,0 +1,8 @@
+{
+  "name": "Grid Hair",
+  "description": "A real-time hair color changer using MediaPipe Hair Segmentation. Try on different hair colors instantly using your webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
